@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "raysh.io.trader_orchestrator": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
